@@ -212,7 +212,7 @@ Largest Fortnite Build Archive. Soon more Builds
 | 18.00 | UE4.26 | https://public.simplyblk.xyz/18.00.rar|
 | 18.10 | UE4.26 | https://gofile.io/d/HOp0Rq|
 | 18.20 | UE4.26 | https://cdn.cbn.lol/18.20|
-| 18.21 | UE4.26 | |https://gofile.io/d/ikpxzV|
+| 18.21 | UE4.26 | https://gofile.io/d/ikpxzV |
 | 18.30 | UE4.26.1 | https://public.simplyblk.xyz/18.30.7z|
 | 18.40 | UE4.26.1 | https://public.simplyblk.xyz/18.40.zip|
 
