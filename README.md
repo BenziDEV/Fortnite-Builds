@@ -9,7 +9,7 @@ Largest Fortnite Build Archive
 | ------------------------------ | --------------------- | ------------------------ | ------------------------------ |
 | OT6.5-CL-2870186        	 |  28-02-16	   	 | UE4.12-2870186	    |		https://public.simplyblk.xyz/OT0.6.5.zip |
 | Cert-CL-3532353                | 20-07-17              | UE4.16-3532353           | N/A |
-| 1.2-CL-3541083         	 |  21-07-17      	 | UE4.16-3541083	    |		N/A |
+| 1.2-CL-3541083         	 |  21-07-17      	 | UE4.16-3541083	    |		https://rebrand.ly/1_2_0 |
 
 # Season 0 & 1
 | Build                   	| Date          	 | Engine Version	    |		    Download links             |
@@ -51,7 +51,7 @@ Largest Fortnite Build Archive
 | 4.1-CL-4053532          	| 08-05-18       	 | UE4.20-4053532	    |		https://public.simplyblk.xyz/4.1.zip|
 | 4.2-CL-4072250          	| 16-05-18	 	 | UE4.20-4072250 	    | 		https://public.simplyblk.xyz/4.2.zip|
 | 4.4-CL-4117433          	| 11-06-18       	 | UE4.20-4117433  	    |           https://public.simplyblk.xyz/4.4.rar|
-| 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		N/A |
+| 4.4.1-CL-4127312        	| 14-06-18       	 | UE4.20-4127312 	    |		https://rebrand.ly/4_4_1 |
 | 4.5-CL-4159770          	| 27-06-18       	 | UE4.20-4159770 	    |		https://public.simplyblk.xyz/4.5.rar|
 
 # Season 5
