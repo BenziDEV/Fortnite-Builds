@@ -233,3 +233,15 @@ Largest Fortnite Build Archive
 |20.20| N/A | https://public.simplyblk.xyz/20.20.zip|
 |20.30| N/A | https://cdn.cbn.lol/20.30|
 |20.40| N/A | https://public.simplyblk.xyz/20.40.zip|
+
+# Season 21
+| Build | Engine Version | Download links |
+| --- | --- | --- |
+| 21.00 | N/A| https://r2.ploosh.dev/21.00.zip|
+| 21.10 | N/A| https://public.simplyblk.xyz/21.10.zip|
+| 21.20 | N/A | https://cdn.cbn.lol/21.20|
+|21.30| N/A | https://cdn.cbn.lol/21.30|
+|21.40| N/A | https://cdn.cbn.lol/21.40|
+| 21.50 | N/A |https://public.simplyblk.xyz/21.50.zip |
+|21.51 | N/A | https://public.simplyblk.xyz/21.51.7z|
+
