@@ -21,7 +21,7 @@ Largest Fortnite Build Archive
 | 1.9 | UE4.16-3757339 | https://public.simplyblk.xyz/1.9.rar|
 | 1.9.1 | UE4.16-3775276 | https://public.simplyblk.xyz/1.9.1.rar|
 | 1.10 | UE4.19-3790078 | https://public.simplyblk.xyz/1.10.rar|
- 
+
 # Season 2
 | Build | Engine Version | Download links |
 | --- | --- | --- |
