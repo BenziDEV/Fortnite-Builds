@@ -109,7 +109,7 @@ Largest Fortnite Build Archive. Soon more Builds
 | 8.30 | UE4.23 | https://public.simplyblk.xyz/8.30.rar|
 | 8.40 | UE4.23 | https://public.simplyblk.xyz/8.40.zip|
 | 8.50 | UE4.23 | https://public.simplyblk.xyz/8.50.zip|
-| 8.51 | UE4.23 | https://public.simplyblk.xyz/8.51.rar|
+| 8.51 | UE4.23 | https://builds.rebootfn.org/8.51.rar|
 
 # Season 9
 | Build | Engine Version | Download links |
